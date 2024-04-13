@@ -1,3 +1,4 @@
 abcd
 noice
-tescik fixture bez updatea jeszcze
+tescik fixture
+tescik updatea
