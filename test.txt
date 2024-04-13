@@ -2,3 +2,4 @@ abcd
 noice
 tescik fixture
 tescik updatea
+fetchowanie tutaj
